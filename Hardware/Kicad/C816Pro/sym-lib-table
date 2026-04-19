@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TangPrimerDockLite") (type "KiCad") (uri "${KIPRJMOD}/TangPrimerDockLite.kicad_sym") (options "") (descr ""))
+)
