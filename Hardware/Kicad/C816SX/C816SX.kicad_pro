@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.7,
-          "height": 5.0,
-          "width": 5.0
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -66,24 +66,7 @@
           "width": 0.254
         }
       ],
-      "drc_exclusions": [
-        [
-          "lib_footprint_mismatch|179650000|159485000|bac744b7-efee-4d3c-9d23-6c1c56d34fe1|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|212037500|157327500|15a3e365-f0df-4def-b653-1bdc3bd32c04|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|204500000|148800000|15a3e365-f0df-4def-b653-1bdc3bd32c04|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|204500000|166200000|15a3e365-f0df-4def-b653-1bdc3bd32c04|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -574,9 +557,29 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1524,
         "tuning_profile": "",
-        "via_diameter": 0.5,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "diff_pair_gap": 0.2032,
+        "diff_pair_width": 0.12192,
+        "name": "HDMI_100R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.203,
+        "name": "Test",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.203,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -584,7 +587,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "HDMI_100R",
+        "pattern": "LVDS*"
+      },
+      {
+        "netclass": "HDMI_100R",
+        "pattern": "/LVDS_(IOR29_N|IOR29_P|IOR53_N|IOR53_P|RX4_N|RX4_P|RX5_N|RX5_P)"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -728,13 +740,13 @@
         "uuid": "023a9299-8fca-42c9-9141-b90f2c70ff10"
       }
     ],
-    "used_designators": "",
+    "used_designators": "Y2",
     "variants": []
   },
   "sheets": [
     [
       "023a9299-8fca-42c9-9141-b90f2c70ff10",
-      "Tang_Primer_20K_Footprint"
+      "C816SX"
     ]
   ],
   "text_variables": {},
