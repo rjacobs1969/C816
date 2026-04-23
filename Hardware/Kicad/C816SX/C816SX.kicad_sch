@@ -17614,12 +17614,6 @@
 		(uuid "13035ae4-34da-4e59-8421-6a9c9ad365d7")
 	)
 	(junction
-		(at 323.85 346.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "143766ac-70a4-418b-a8ad-5392122459fb")
-	)
-	(junction
 		(at 72.39 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17642,12 +17636,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a68c787-2742-4d67-b39c-7cddf491d4c2")
-	)
-	(junction
-		(at 342.9 233.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1aa5eb1b-2ec3-4986-ace4-bd036f595eab")
 	)
 	(junction
 		(at 227.33 228.6)
@@ -17740,6 +17728,12 @@
 		(uuid "3c071ecf-8d2f-4e55-9a6b-47cf489e4af3")
 	)
 	(junction
+		(at 323.85 346.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c4d2523-ce35-48cc-a1c3-738c942f700a")
+	)
+	(junction
 		(at 267.97 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17780,12 +17774,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41dc1c29-aeba-410f-9ed7-e5010d151548")
-	)
-	(junction
-		(at 533.4 278.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45af0e76-de8e-4016-a2a9-367d4b33a62a")
 	)
 	(junction
 		(at 327.66 167.64)
@@ -17962,12 +17950,6 @@
 		(uuid "7138cc0f-1e3f-412e-bf09-868050cdd08e")
 	)
 	(junction
-		(at 533.4 298.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "745f0294-5abc-4860-b06a-ff682fb3c581")
-	)
-	(junction
 		(at 516.89 5.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18016,6 +17998,12 @@
 		(uuid "8a0e24f7-d031-44ea-9b18-260fc81c8198")
 	)
 	(junction
+		(at 533.4 298.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b9c3c4c-2491-48c7-9605-e31ded62de32")
+	)
+	(junction
 		(at 29.21 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18056,6 +18044,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94b5881e-7ad6-4265-815d-1d74b11a20d7")
+	)
+	(junction
+		(at 30.48 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95611e98-2b21-4416-b3af-2cde2683af77")
 	)
 	(junction
 		(at 67.31 223.52)
@@ -18124,6 +18118,12 @@
 		(uuid "b85c83d4-27c1-4d54-ae6c-87cd879872fa")
 	)
 	(junction
+		(at 342.9 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9d9705c-5a8e-4888-91c8-1e1b20ff7665")
+	)
+	(junction
 		(at 377.19 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18140,6 +18140,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bca84704-8fa7-4f64-9200-c6c994da5232")
+	)
+	(junction
+		(at 30.48 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be696836-56bb-40d0-ae20-d93de3833213")
 	)
 	(junction
 		(at 167.64 214.63)
@@ -18310,6 +18316,12 @@
 		(uuid "face972a-8917-4adc-ae30-cf93fa6db107")
 	)
 	(junction
+		(at 533.4 278.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb239bf9-1f7d-46dd-8a6f-e429931bcefa")
+	)
+	(junction
 		(at 369.57 364.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -18366,10 +18378,6 @@
 	(no_connect
 		(at 294.64 107.95)
 		(uuid "387417a8-985d-4968-a891-1274f878bb52")
-	)
-	(no_connect
-		(at 278.13 251.46)
-		(uuid "3bd64ddb-8377-4214-8fe0-6712d2a7546e")
 	)
 	(no_connect
 		(at 67.31 172.72)
@@ -20515,16 +20523,6 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 346.71) (xy 314.96 345.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20398552-222c-4cd7-a53f-c2d62d1f5bec")
-	)
-	(wire
-		(pts
 			(xy 40.894 177.8) (xy 46.99 177.8)
 		)
 		(stroke
@@ -21255,16 +21253,6 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 364.49) (xy 351.79 364.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3569139a-d34d-4e3f-8daa-7178c6a577e9")
-	)
-	(wire
-		(pts
 			(xy 306.07 190.5) (xy 313.69 190.5)
 		)
 		(stroke
@@ -21282,16 +21270,6 @@
 			(type default)
 		)
 		(uuid "360cb5e1-cf55-4c56-9799-f1465941e2ca")
-	)
-	(wire
-		(pts
-			(xy 342.9 233.68) (xy 342.9 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "361ac17a-bdf6-4dab-b5f8-a3cf72c9df66")
 	)
 	(wire
 		(pts
@@ -21825,16 +21803,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 346.71) (xy 314.96 346.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4819f61d-182d-49a5-b1d7-41ad42a30aae")
-	)
-	(wire
-		(pts
 			(xy 565.15 95.25) (xy 568.96 95.25)
 		)
 		(stroke
@@ -21912,6 +21880,16 @@
 			(type default)
 		)
 		(uuid "4af436e0-1d05-4f36-9d1d-3ea22ac69a7f")
+	)
+	(wire
+		(pts
+			(xy 332.74 361.95) (xy 351.79 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af820b9-79a0-453a-9983-025cf7da3745")
 	)
 	(wire
 		(pts
@@ -22325,6 +22303,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 236.22) (xy 25.4 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "580dc055-54e3-461e-8bb8-5336bb174bad")
+	)
+	(wire
+		(pts
 			(xy 74.93 162.56) (xy 67.31 162.56)
 		)
 		(stroke
@@ -22642,6 +22630,16 @@
 			(type default)
 		)
 		(uuid "5fdc6c5e-3308-43fe-a37c-1e62efc8a2fe")
+	)
+	(wire
+		(pts
+			(xy 25.4 250.19) (xy 30.48 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "606aedb0-c6d0-4abd-b18e-2d98cf15ed18")
 	)
 	(wire
 		(pts
@@ -23895,7 +23893,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 361.95) (xy 317.5 361.95)
+			(xy 317.5 361.95) (xy 327.66 361.95)
 		)
 		(stroke
 			(width 0)
@@ -24362,6 +24360,16 @@
 			(type default)
 		)
 		(uuid "90134a23-e03e-452a-bcb3-2069192fd4ca")
+	)
+	(wire
+		(pts
+			(xy 332.74 364.49) (xy 351.79 364.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90770ce6-f4ab-44f0-9ea6-85b01aca0308")
 	)
 	(wire
 		(pts
@@ -25595,16 +25603,6 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 361.95) (xy 351.79 361.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b08776f3-8049-40ce-86e8-9800e48df211")
-	)
-	(wire
-		(pts
 			(xy 340.36 241.3) (xy 350.52 241.3)
 		)
 		(stroke
@@ -26835,6 +26833,16 @@
 	)
 	(wire
 		(pts
+			(xy 342.9 233.68) (xy 342.9 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccb6d8c0-0366-49be-9df9-ef2f97c3d338")
+	)
+	(wire
+		(pts
 			(xy 39.37 99.06) (xy 46.99 99.06)
 		)
 		(stroke
@@ -26975,7 +26983,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 364.49) (xy 317.5 364.49)
+			(xy 317.5 364.49) (xy 327.66 364.49)
 		)
 		(stroke
 			(width 0)
@@ -27562,6 +27570,16 @@
 			(type default)
 		)
 		(uuid "dff24868-708c-4ecb-99d9-1787a40f3762")
+	)
+	(wire
+		(pts
+			(xy 30.48 236.22) (xy 25.4 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e01a6387-ce3c-4e12-a13c-29e87ddece64")
 	)
 	(wire
 		(pts
@@ -28692,6 +28710,16 @@
 			(type default)
 		)
 		(uuid "fcc394df-8428-4834-a138-8f5e7762662e")
+	)
+	(wire
+		(pts
+			(xy 25.4 247.65) (xy 25.4 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd3aea31-491c-49da-b955-d5b1bb14a13d")
 	)
 	(bus
 		(pts
@@ -35347,87 +35375,6 @@
 		(uuid "ffe43e0f-3152-4344-bbc6-c355b6fb9b9e")
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 218.44 228.6 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "01321b65-9781-4ebd-b708-69031678ab1e")
-		(property "Reference" "R47"
-			(at 224.536 227.584 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "470"
-			(at 219.964 228.6 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 218.44 226.822 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 218.44 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6bc32f89-8d5d-49c7-ae4d-d00158ba9c7a")
-		)
-		(pin "2"
-			(uuid "8ce65c6f-7bb4-401a-aaa9-d59d88dcb249")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74LS07")
 		(at 347.98 175.26 0)
 		(unit 5)
@@ -35615,6 +35562,87 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 533.4 281.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "032f686e-255c-4b2a-a0ef-c6e61c449328")
+		(property "Reference" "R28"
+			(at 532.13 283.718 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 533.4 280.416 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 531.622 281.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 533.4 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 533.4 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a81b43aa-5b67-46df-920d-849a87e6ea58")
+		)
+		(pin "2"
+			(uuid "ab621ba4-d84a-4021-89b1-5c757a0df7de")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -37919,6 +37947,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 533.4 294.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1895ec67-a1a6-4793-8adf-a9a2bc744d4f")
+		(property "Reference" "R29"
+			(at 532.13 296.418 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 533.4 293.116 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 531.622 294.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 533.4 294.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 533.4 294.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5cbf517e-a507-4895-bc1a-7828f35bc5e2")
+		)
+		(pin "2"
+			(uuid "559592fa-d666-4a39-b302-6514b5d3a0c4")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Pack04")
 		(at 447.04 187.96 90)
 		(unit 1)
@@ -38873,6 +38982,87 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 670.56 264.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "25c5b4c4-6021-47a3-82b5-1092e041aab9")
+		(property "Reference" "R27"
+			(at 668.782 262.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "330"
+			(at 672.084 264.16 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 670.56 262.382 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 670.56 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 670.56 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19ebc078-f094-4a19-a5d7-42891286834f")
+		)
+		(pin "2"
+			(uuid "f185aa28-74a0-40cc-96bc-911b17b4bdfa")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -40017,87 +40207,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 330.2 361.95 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2f344b3d-2f35-4b36-b26e-d9f14658066d")
-		(property "Reference" "R13"
-			(at 332.994 360.934 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "33"
-			(at 328.676 361.95 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 330.2 363.728 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 330.2 361.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 330.2 361.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e59fd930-fbf6-4c8c-93c6-3727ea6f6ac5")
-		)
-		(pin "2"
-			(uuid "0503b9aa-7464-427c-9737-04ad3d544a4d")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 121.92 38.1 270)
 		(unit 1)
@@ -40523,7 +40632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 678.18 272.542 90)
 			(hide yes)
 			(show_name no)
@@ -40566,6 +40675,87 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 678.18 276.86 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "392c1803-65ef-465e-9736-c85d119aee5e")
+		(property "Reference" "R26"
+			(at 676.402 275.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 679.704 276.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 678.18 275.082 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 678.18 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 678.18 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "51c12bbb-c82d-4ce4-9036-8be1acfe1b47")
+		)
+		(pin "2"
+			(uuid "b0933eb5-4931-4a1d-975a-96366da82fe7")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -41893,87 +42083,6 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "#PWR0275")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 330.2 364.49 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3e4ed6a9-61a8-4f7c-a9ee-71101a4bdb74")
-		(property "Reference" "R14"
-			(at 333.248 363.474 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "33"
-			(at 328.676 364.49 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 330.2 366.268 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 330.2 364.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 330.2 364.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "eccf251b-81bf-4dc8-bef7-e4a62d8fe7c4")
-		)
-		(pin "2"
-			(uuid "92779050-e95d-436b-8ec6-65a5e16f9aee")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -43532,6 +43641,87 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "#PWR0270")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 458.47 180.34 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4f275f8b-d614-4e38-9510-d303b59401a1")
+		(property "Reference" "R35"
+			(at 460.248 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k5"
+			(at 456.946 180.34 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 458.47 182.118 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 458.47 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 458.47 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ff19af86-6397-4f10-ba70-b0233be7fb98")
+		)
+		(pin "2"
+			(uuid "5c0b6755-be40-4c78-8e8d-31ac19ef3c65")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -45375,6 +45565,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 323.85 342.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5f2145bd-3f99-4809-935b-654fdf6823de")
+		(property "Reference" "R32"
+			(at 322.58 344.678 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 323.85 341.376 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 322.072 342.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 323.85 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 323.85 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "86fdf022-608d-49dd-b5b2-a3d596834237")
+		)
+		(pin "2"
+			(uuid "0bc51c0c-b2a7-4ee3-b1c2-fd6b168a3d65")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at -38.1 68.58 270)
 		(unit 1)
@@ -46907,87 +47178,6 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "#PWR0123")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 678.18 276.86 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6f6f2ffe-d7a0-46ab-b05a-490b15e550c4")
-		(property "Reference" "R26"
-			(at 674.624 273.558 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1k"
-			(at 679.704 276.86 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 678.18 275.082 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 678.18 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 678.18 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5cf2ea84-b22c-4858-b5d6-941482c8d7d9")
-		)
-		(pin "2"
-			(uuid "1d255f65-aabe-450c-9220-7c02551618ff")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -48644,6 +48834,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 346.71 233.68 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "752f4362-b881-4669-b6ab-8865c80b0f3e")
+		(property "Reference" "R34"
+			(at 348.488 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 345.186 233.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 346.71 235.458 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 346.71 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 346.71 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19b46615-4a7d-4d9d-925f-4c81e02da896")
+		)
+		(pin "2"
+			(uuid "13697ab2-63ec-49c8-9e44-362be2851e15")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "74xx:74LS07")
 		(at 525.78 271.78 180)
 		(unit 5)
@@ -49733,87 +50004,6 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "#PWR0271")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 218.44 226.06 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "81f05705-5794-4eb0-8f7b-5cb9ec5c9847")
-		(property "Reference" "R46"
-			(at 224.536 225.044 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "470"
-			(at 219.964 226.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 218.44 224.282 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 218.44 226.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3db32960-dbee-426e-85ae-5fa5da656d59")
-		)
-		(pin "2"
-			(uuid "639fb7d7-2ad0-46a2-a9c9-b7afbbe8cd0d")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -51295,87 +51485,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 533.4 294.64 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8dd29707-2fa9-49e9-82ce-5747d472bf44")
-		(property "Reference" "R5"
-			(at 529.59 292.862 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 533.4 296.164 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 535.178 294.64 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 533.4 294.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 533.4 294.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "792901b2-3c0f-4bb1-a0e8-71ca6bfaa754")
-		)
-		(pin "2"
-			(uuid "b6c05f14-0756-41e5-a8c3-9ea4c9c06f98")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 57.15 217.17 0)
 		(unit 1)
@@ -52517,87 +52626,6 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "RN16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 320.04 346.71 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "982cf4ed-305d-493e-bbf8-ef0e27738751")
-		(property "Reference" "R45"
-			(at 320.294 344.678 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 321.564 346.71 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 320.04 344.932 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 320.04 346.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 320.04 346.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9df5509a-9cf0-428f-9892-fb928dcc1f5a")
-		)
-		(pin "2"
-			(uuid "8594354f-ffb9-40d4-a88a-9773c07a04d6")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -55030,87 +55058,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 458.47 180.34 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "af6320af-cd2e-4e80-bc3e-0ad8dcea758a")
-		(property "Reference" "R21"
-			(at 465.074 181.61 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1k5"
-			(at 459.994 180.34 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 458.47 178.562 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 458.47 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 458.47 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "292e7c98-6c93-4083-a6b4-89f961558bee")
-		)
-		(pin "2"
-			(uuid "2903face-a60a-449a-884a-90334e0ac982")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 215.9 237.49 0)
 		(unit 1)
@@ -55512,8 +55459,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 346.71 233.68 90)
+		(lib_id "Device:C")
+		(at 25.4 243.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -55521,31 +55468,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b33a27d7-21ef-4af0-ad3e-985969a9c83c")
-		(property "Reference" "R16"
-			(at 344.678 235.712 90)
+		(uuid "b3842471-14c7-42e2-ae43-6e87e70c61e0")
+		(property "Reference" "C50"
+			(at 25.654 246.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "3K3"
-			(at 344.678 233.68 90)
+		(property "Value" "100n"
+			(at 27.178 242.316 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 346.71 235.458 90)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 26.3652 247.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55556,7 +55503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 346.71 233.68 0)
+			(at 25.4 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55566,8 +55513,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 346.71 233.68 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 25.4 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55578,15 +55525,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "ea8dbbc9-1085-496d-ace3-5b684949ec56")
+			(uuid "8db1824d-0f7d-4752-9eb0-15456c270c33")
 		)
 		(pin "2"
-			(uuid "56858ee9-2f5c-438d-b170-fdbe1add99fd")
+			(uuid "2c407204-eb01-4ed3-94e2-687e30e4235a")
 		)
 		(instances
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R16")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -57315,6 +57262,169 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 330.2 364.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c077e6e6-ec87-44bc-b413-0d226aefb0c5")
+		(property "Reference" "NT69"
+			(at 330.2 359.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 330.2 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "FPGA AND STUFF:MyNetTie-2_SMD_Pad0.25mm"
+			(at 330.2 364.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 364.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 330.2 364.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3e141f22-9531-4ee7-b1cf-263c2670e018")
+		)
+		(pin "2"
+			(uuid "7bbc07be-8707-49f5-bdf6-dfee6523e2cb")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "NT69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 218.44 228.6 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c0fd25c1-6ad3-438c-a022-6145163c6968")
+		(property "Reference" "R31"
+			(at 219.964 230.886 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "470"
+			(at 219.964 228.6 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 218.44 226.822 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 218.44 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c2be20c3-c596-4dab-9c19-1dfe7cc0c2e2")
+		)
+		(pin "2"
+			(uuid "8285318b-88f3-4c95-901a-4a0055fa5ca9")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -59346,87 +59456,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 670.56 264.16 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d7153753-1bca-439a-ad40-24565605495f")
-		(property "Reference" "R24"
-			(at 672.592 262.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "330"
-			(at 672.084 264.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 670.56 262.382 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 670.56 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 670.56 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "467a17ae-7b9d-4bb0-8504-63ca2d7afc4d")
-		)
-		(pin "2"
-			(uuid "c4b40ef2-f3d3-40ab-9054-c5c44079df19")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Pack04")
 		(at 568.96 290.83 90)
 		(unit 1)
@@ -61049,7 +61078,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 314.96 345.44 0)
+		(at 323.85 339.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -61060,7 +61089,7 @@
 		(fields_autoplaced yes)
 		(uuid "e121db3a-9e8c-41a7-9f5c-4e2491bedb8a")
 		(property "Reference" "#PWR025"
-			(at 314.96 349.25 0)
+			(at 323.85 342.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61071,7 +61100,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 314.96 340.36 0)
+			(at 323.85 334.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -61081,7 +61110,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 314.96 345.44 0)
+			(at 323.85 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61092,7 +61121,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 345.44 0)
+			(at 323.85 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61103,7 +61132,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 314.96 345.44 0)
+			(at 323.85 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63763,6 +63792,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 330.2 361.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f467213d-cd5a-4031-a729-31d37388d830")
+		(property "Reference" "NT68"
+			(at 330.2 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 330.2 359.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "FPGA AND STUFF:MyNetTie-2_SMD_Pad0.25mm"
+			(at 330.2 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 330.2 361.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d179bddd-fcfa-47ee-9360-e94b237432ff")
+		)
+		(pin "2"
+			(uuid "29dad44a-5a66-433e-b516-4657a12f5af8")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "NT68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at -25.4 86.36 270)
 		(unit 1)
@@ -64088,6 +64199,87 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 218.44 226.06 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f5f620ba-39eb-410d-9eab-3c53837c7e2c")
+		(property "Reference" "R30"
+			(at 221.488 224.028 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "470"
+			(at 219.964 226.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 218.44 224.282 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 218.44 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "419ed48a-8d0f-4fd3-8a4a-5918ae4f437e")
+		)
+		(pin "2"
+			(uuid "e404c15e-fb6e-430b-8b55-e5478346961d")
+		)
+		(instances
+			(project "C816SX"
+				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -64719,87 +64911,6 @@
 			(project "C816SX"
 				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
 					(reference "C40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 533.4 281.94 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "fc2e2f2b-e751-4ee3-947b-8ab6090821fd")
-		(property "Reference" "R7"
-			(at 534.924 283.718 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 533.4 283.464 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 535.178 281.94 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 533.4 281.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 533.4 281.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bf5c3084-49a2-46ce-a751-316bf72c3b98")
-		)
-		(pin "2"
-			(uuid "0b40357d-da33-4eed-90ff-82343a3ec65b")
-		)
-		(instances
-			(project "C816SX"
-				(path "/023a9299-8fca-42c9-9141-b90f2c70ff10"
-					(reference "R7")
 					(unit 1)
 				)
 			)

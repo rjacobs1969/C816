@@ -66,7 +66,12 @@
           "width": 0.254
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|158659000|127714000|bac744b7-efee-4d3c-9d23-6c1c56d34fe1|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -740,7 +745,7 @@
         "uuid": "023a9299-8fca-42c9-9141-b90f2c70ff10"
       }
     ],
-    "used_designators": "Y2",
+    "used_designators": "C50,R26-32,R34-35,NT68-69,Y2",
     "variants": []
   },
   "sheets": [
